@@ -39,3 +39,5 @@ twitterBtn.addEventListener("click", ()=>{
 });
 
 quoteBtn.addEventListener("click", randomQuote);
+
+randomQuote();
